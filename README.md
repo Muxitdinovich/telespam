@@ -7,6 +7,8 @@ pip install PyAutoGUI
 
 git clone https://github.com/Muxitdinovich/telespam.git
 
+cd telespam
+
 Run:
 
 python telespam.py
